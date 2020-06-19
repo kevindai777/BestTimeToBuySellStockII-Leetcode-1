@@ -1,4 +1,4 @@
-# BestTimeToBuySellStockII-Leetcode-1
+# BestTimeToBuySellStockII-Leetcode-122
 
 Leetcode Question 122 (Easy)
 
