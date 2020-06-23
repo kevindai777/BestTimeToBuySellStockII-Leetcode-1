@@ -3,6 +3,6 @@
 Leetcode Question 122 (Easy)
 
 Techniques Used in Question:
-Nothing of Significance
+Dynamic-Programming
 
 [Link to Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
